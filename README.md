@@ -1,8 +1,9 @@
 # Telecom_Project
 My project is to detect the crawded data in the specefic area with some features
 1. read data 
-    1. Traffic_volume data  before proccessing 
-    https://docs.google.com/spreadsheets/d/1wWmAbokmI8TVoruv7x8PsYaHl9kqpGYg/edit?usp=sharing&ouid=111070117771916953975&    rtpof=true&sd=true  
+    1. Traffic_volume data  before proccessing :
+    https://docs.google.com/spreadsheets/d/1wWmAbokmI8TVoruv7x8PsYaHl9kqpGYg/edit?usp=sharing&ouid=111070117771916953975&rtpof=true&sd=true 
+     
         1. timestamp to detect the time of the user
         2. LocationLatitude and LocationLongitude to detect the postion of the user 
         3. RadioOperatorName to detect the operator of the user
